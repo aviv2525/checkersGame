@@ -1,0 +1,35 @@
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll.config
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.dll
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\bin\Debug\CheckersLogic.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.dll
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\CheckersLogic\obj\Debug\CheckersLogic.pdb

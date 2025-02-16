@@ -1,0 +1,70 @@
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGame.resources
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.pdb
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll.config
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.Up2Date
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\natan\OneDrive\מסמכים\year3\c#\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGame.resources
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll.config
+C:\Users\User\Desktop\Ex 05 Last Update\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.Up2Date
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll.config
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGame.resources
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.Up2Date
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.pdb
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll.config
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGame.resources
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.Up2Date
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\natan\Downloads\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe.config
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.exe
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\UIWindows.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.pdb
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\bin\Debug\CheckersLogic.dll.config
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGame.resources
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.FormGameSettings.resources
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.csproj.Up2Date
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.exe
+C:\Users\User\Desktop\Ex 05 Last Update\29.1.2025 1343\A25 Ex05 Natanel 314684697 Aviv 208667089\UIWindows\obj\Debug\UIWindows.pdb
