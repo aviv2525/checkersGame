@@ -1,3 +1,6 @@
+# Last Version!
+this is the most updated version includes a design
+
 # Checkers Game
 
 A simple implementation of the classic Checkers (Draughts) game using C# and Object-Oriented Programming principles.
