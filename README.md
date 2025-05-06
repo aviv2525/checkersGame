@@ -21,3 +21,12 @@ A simple implementation of the classic Checkers (Draughts) game using C# and Obj
 ## How to Run
 
 1. Clone the repository:
+ git clone https://github.com/aviv2525/checkers-game.git
+
+3. Open the solution in Visual Studio.
+4. Build and run the project.
+
+
+## Author
+
+Aviv — [GitHub Profile](https://github.com/aviv2525)
